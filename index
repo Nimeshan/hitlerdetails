@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main id="main">
+<div class="Head">
+<h1 id="title">Adolf Hitler</h1>
+<p>The World's Strongest Man.</p>
+</div>
+<div id="img-div" class="qw">
+<img src="https://t.ly/d569R" id="image">
+<p class="Hit">Hitler is an King of World War.</p>
+</div>
+
+<div id="tribute-info" class="ti">
+<ul>
+<li><span class="bold">Date of Birth:</span> 20 April 1889</li>
+<li><span class="bold">Birth Place:</span> Austria</li>
+<li><span class="bold">Job:</span> German Politician</li>
+<li><span class="bold">Year of Death:</span> 30 April 1945</li>
+<li><span class="bold">Plan before Politics:</span> To Become an Artist</li>
+</ul>
+
+<a href="https://en.wikipedia.org/wiki/Adolf_Hitler" target="_blank" id="tribute-link"><p class="link">Learn More about Hitler</p></a>
+  </div>
+</main>
+</body>
+</html>
