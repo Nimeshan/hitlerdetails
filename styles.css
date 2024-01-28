@@ -1,0 +1,60 @@
+body{
+background-color: #9c7a1c;
+}
+.head{
+background-color: yellow;
+text-align: center;
+padding: 1px;
+display: wrap;
+margin-top: 22px;
+border: 2px solid black;
+}
+
+.qw{
+  padding-top: 6px;
+  border: 1px solid green;
+}
+
+#image{
+  padding-top: 18px;
+  padding-bottom: 1px;
+  width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 550px;
+}
+
+img{
+  display: block;
+}
+
+.img-div{
+  background-color: orange;
+}
+
+.Hit{
+  color: white;
+  text-align: center;
+  padding-bottom: 11px; 
+}
+
+.link{
+  text-align: center;
+}
+
+
+.bold{
+  font-weight: bold;
+}
+
+ul{
+  padding: 80px;
+  margin: 4px;
+}
+
+.ti{
+  border: 2px solid black;
+}
